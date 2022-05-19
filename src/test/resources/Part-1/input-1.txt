@@ -1,0 +1,4 @@
+> var
+15
+< var
+exit_0

@@ -1,0 +1,9 @@
+> var
+88888
+> num
+12345
+<   var
+  var =   num
+< var
+< num
+exit_0

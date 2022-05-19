@@ -1,0 +1,10 @@
+num = num + 10
+> num
+9696
+>var
+-1379
+< variable
+var= -var-var+num +var-num  
+<         num
+<var
+exit_0

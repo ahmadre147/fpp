@@ -1,0 +1,8 @@
+>  var
+-125
+> num
+-125
+res =-500
+res = -  res -var -num -var -num+res
+<  res
+exit_0

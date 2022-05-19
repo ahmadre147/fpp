@@ -1,0 +1,7 @@
+var is not defined
+num is not defined
+-2048
+-6144
+number is not defined
+-18432
+-6144

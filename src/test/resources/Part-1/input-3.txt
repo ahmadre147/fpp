@@ -1,0 +1,8 @@
+var =   -12
+< var
+< var
+>var
+8080
+   <     var
+< var
+exit_0

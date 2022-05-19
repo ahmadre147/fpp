@@ -1,0 +1,5 @@
+variable =4851   +1379-3109
+  <variable
+variable = variable + 5791
+<   variable
+exit_0

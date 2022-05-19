@@ -1,0 +1,11 @@
+>  var
+-125
+<  num
+num = 125 + var - num
+<num
+> num
+-125
+res =-500
+res = - 5 + 0-  res -var -num -var -num+res+  5
+<  res
+exit_0

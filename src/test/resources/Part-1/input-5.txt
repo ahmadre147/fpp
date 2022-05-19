@@ -1,0 +1,10 @@
+var= 54321
+>  var
+-125
+< var
+num=   var
+<num
+ > num
+4813
+  <   num
+exit_0

@@ -1,0 +1,8 @@
+var  =-12345
+var=  +12345
+<    var
+>num
+9696
+num=var
+<         num
+exit_0

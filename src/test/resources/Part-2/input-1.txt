@@ -1,0 +1,9 @@
+>  var
+9658
+>num
+5896
+  res=  -4813+  var+num+var -  1234
+<  var
+<num
+< res
+exit_0

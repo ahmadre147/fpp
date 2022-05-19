@@ -1,0 +1,10 @@
+var =   -12
+> var
+-2048
+< var
+num=var+var+var
+<num
+var = var+ num+ var +num+var
+< var
+<     num
+exit_0

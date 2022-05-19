@@ -1,0 +1,4 @@
+num is not defined
+variable is not defined
+9696
+1379
